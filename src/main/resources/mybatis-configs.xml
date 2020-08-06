@@ -12,7 +12,7 @@
                 <property name="driver" value="com.mysql.cj.jdbc.Driver"/>
                 <property name="url" value="jdbc:mysql://47.112.112.79:3306/TestDB"/>
                 <property name="username" value="root"/>
-                <property name="password" value="amberlo89631139"/>
+                <property name="password" value=""/>
             </dataSource>
         </environment>
     </environments>
